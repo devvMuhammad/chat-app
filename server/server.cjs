@@ -54,7 +54,7 @@ app.post("/login", async (req, res) => {
 });
 
 app.get("/mcqs", authorizeToken, async (req, res) => {
-  fs.readFile("./mcqs/mcqArray.json", { encoding: "utf-8" }, (err, data) => {
+  fs.readFile("./mcqArray.json", { encoding: "utf-8" }, (err, data) => {
     if (err) {
       console.log(err);
       return res.status(400).json({
