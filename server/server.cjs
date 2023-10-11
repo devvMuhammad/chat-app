@@ -55,7 +55,7 @@ app.post("/login", async (req, res) => {
 
 app.get("/mcqs", authorizeToken, async (req, res) => {
   fs.readFile(
-    __dirname + "./mcqArray.json",
+    __dirname + "/./mcqArray.json",
     { encoding: "utf-8" },
     (err, data) => {
       if (err) {
