@@ -17,7 +17,7 @@ mongoose
   .then(() => console.log("connection to DB made!"))
   .catch(() => "error while connecting");
 
-app.use(cors());
+app.use(cors({ origin: "http://localhost:5173" }));
 app.use(express.json());
 
 app.post("/login", async (req, res) => {
