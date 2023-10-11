@@ -78,8 +78,8 @@ app.post("/submitResult", async (req, res) => {
   try {
     await User.findOneAndUpdate(
       { email },
-      // { expired: true, result: subjectScores }
-      { result: subjectScores }
+      { expired: true, result: subjectScores }
+      // { result: subjectScores }
     );
     res.status(200).json({
       status: "success",
