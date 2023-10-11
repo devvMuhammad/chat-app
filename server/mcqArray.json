@@ -22,6 +22,13 @@
         "selectedOption": ""
       },
       {
+        "question": "lim x-->1 |x|/x",
+        "options": ["0", "1", "-1", "None of these"],
+        "answer": "None of these",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
         "question": "The volume to surface ratio is maximum for:",
         "options": ["Sphere", "Cylinder", "Pyramid", "Cuboid"],
         "answer": "Sphere",
