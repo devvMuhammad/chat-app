@@ -15,6 +15,77 @@
         "selectedOption": ""
       },
       {
+        "question": "Which of the following is an irrational number?",
+        "options": ["22/7", "3.14", "1/3", "None of these"],
+        "answer": "None of these",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The volume to surface ratio is maximum for:",
+        "options": ["Sphere", "Cylinder", "Pyramid", "Cuboid"],
+        "answer": "Sphere",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "For a geometric divergent series, which one is true?",
+        "options": ["|r| < 1", "|r| = 1", "|r| = -1", "All of these"],
+        "answer": "|r| < 1",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Fraction form of the number 5.1733333.... is",
+        "options": ["5556/999", "5556/900*", "5655/999", "5655/900"],
+        "answer": "5556/900",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Asymptote(s) of the function f(x) = 1/x is/are",
+        "options": ["x = 0", "y = 0", "xy = 0*", "y = x"],
+        "answer": "xy = 0",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "f(x) = e^x meets the x-axis at ...",
+        "options": ["x = e", "x = 0", "x = 1", "none of these*"],
+        "answer": "none of these",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If three coins are tossed simultaneously, what's the probability of getting a head?",
+        "options": ["1/8", "7/8*", "1", "1/2"],
+        "answer": "7/8",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Asymptote(s) of the function f(x) = 1/x is/are",
+        "options": ["x = 0", "y = 0", "xy = 0*", "y = x"],
+        "answer": "xy = 0",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which of the following is not possible in probability?",
+        "options": ["0.57", "1/e", "e*", "none of these"],
+        "answer": "e",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If two Matrices A & B with orders m x n & p x m respectively are multiplied with each other, then the order of their resultant matrix will be",
+        "options": ["m x m", "n x p", "m x p", "none of these*"],
+        "answer": "none of these",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+
+      {
         "question": "Graph of the function & its inverse are symmetric about line _____ ",
         "options": ["y = x", "x = 0", "y = 0", "y = -x"],
         "answer": "y = x",
@@ -22,7 +93,7 @@
         "selectedOption": ""
       },
       {
-        "question": "If u, v, and w are three vectors, then ( represents the area of:",
+        "question": "If u, v, and w are three vectors, then u.(vxw) represents the area of:",
         "options": ["Triangle", "Cube ", "Cylinder", "Parallelepiped"],
         "answer": "Cube ",
         "category": "unattempted",
