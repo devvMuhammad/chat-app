@@ -1,0 +1,914 @@
+[
+  {
+    "subject": "Mathematics",
+    "questions": [
+      {
+        "question": "∫Sinx² dx =",
+        "options": [
+          "- Cos²x + c",
+          "-2Cos²x + c",
+          "- Sinx³/3 + c",
+          "None of these"
+        ],
+        "answer": "None of these",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Graph of the function & its inverse are symmetric about line _____ ",
+        "options": ["y = x", "x = 0", "y = 0", "y = -x"],
+        "answer": "y = x",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If u, v, and w are three vectors, then ( represents the area of:",
+        "options": ["Triangle", "Cube ", "Cylinder", "Parallelepiped"],
+        "answer": "Cube ",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "For an A.P if a and d, the total number of terms in the series is n, then Sn equals to:",
+        "options": ["2q/n - p", "2q/n", "q/n+p", "2qn-2p"],
+        "answer": "2q/n",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The whole numbers are not closed under",
+        "options": ["Division ", "Addition", "Multiplication", "Subtraction"],
+        "answer": "Division ",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The sides of a square and equilateral triangle are 5. What is the ratio of the area of the square to the area of the triangle?",
+        "options": ["8/√3", "8√3/5", "4√3", "√3/8"],
+        "answer": "4√3",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If a dice is rolled two times, then what is the probability of the numbers whose sum is 8?",
+        "options": ["2/36", "2/4", "4/36", "5/36 "],
+        "answer": "5/36 ",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If one cut is parallel, we get which conic section?",
+        "options": ["Circle", "Parabola", "Hyperbola ", "Ellipse"],
+        "answer": "Hyperbola ",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The vertex of the Parabola is:",
+        "options": ["(4,2)", "(2, -3)", "(-2,3)", "(3,2)"],
+        "answer": "(2, -3)",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "In an ellipse, what is the name for the line through the focus and perpendicular to the major axis ending at the ellipse?",
+        "options": [
+          "Focal chord",
+          "Minor axis",
+          "Latus rectum",
+          "Vertical asymptote"
+        ],
+        "answer": "Minor axis",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "xxx",
+        "options": ["-1", "1", "2r", "None"],
+        "answer": "",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "(1-tan²x)(1+tan²x)",
+        "options": ["sin²x-cos²x", "cos²x-sin²x-", "both", "None"],
+        "answer": "sin²x-cos²x",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "∫eˣ/√(1+eˣ) dx",
+        "options": ["2√(1+eˣ)", "3√(1+eˣ)", "4√(1+eˣ)", "5√(1+eˣ)"],
+        "answer": "2√(1+eˣ)",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If a = 8, r =  then:",
+        "options": ["24", "-24", "12", "None"],
+        "answer": "24",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Eccentricity of an Ellipse is:",
+        "options": ["1", "0", ">1", "0 < e < 1"],
+        "answer": "0 < e < 1",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The vertex of x²/25 - y²/16 is:",
+        "options": ["(5,4)", "(-5, -4)", "(0,0)", "None"],
+        "answer": "None",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+
+      {
+        "question": "if A= B,  then which is true:",
+        "options": ["A= B", "B= C", "A=C", "None"],
+        "answer": "A=C",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Σ⁴₁ logx",
+        "options": ["log24", "1/log24", "1/24", "None"],
+        "answer": "log24",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "lim x-->0 (lnx)",
+        "options": ["∞", "-∞", "0", "Does not exist"],
+        "answer": "Does not exist",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "for n > 0, n!! gives",
+        "options": [
+          "Product of +ve odd numbers",
+          "Product of +ve even numbers",
+          "Product of +ve integers",
+          "None"
+        ],
+        "answer": "Product of +ve odd numbers",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "∫1/(xlnx) dx",
+        "options": ["|lnx|+c", "ln(lnx)+c", "Both", "none"],
+        "answer": "|lnx|+c",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "tan(180+A)cos(90+A) + cos(180-A): ",
+        "options": ["1/secA", "1/cosA", "tanA", "sinA - cosA"],
+        "answer": "1/secA",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Two dice are rolled, the probability that the sum of dots is an odd number is?",
+        "options": ["1/2", "1/3", "greater than 1 or less than 0", "None"],
+        "answer": "1/3",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If we have y = x^4, then we solve by:",
+        "options": [
+          "Implicit differentiation",
+          "Product rule",
+          "Chain rule",
+          "Cannot be solved"
+        ],
+        "answer": "Chain rule",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "log(x²-6) = log10 then x=? \n Consider that the base of both logs is 4",
+        "options": ["- 4", "4", "both", "none of these"],
+        "answer": "4",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If a^n = 3^n, then a is a G.P, then the fourth term will be _____ .",
+        "options": ["27", "-27", "-13.5", "13.5"],
+        "answer": "13.5",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The Maclaurin's series expansion of e^x is:",
+        "options": [
+          "a",
+          "1 + x + x^2/2! + x^3/3! + ...",
+          "1 + x - x^2/2! + x^3/3! - ...",
+          "1 + x + x^2/2 + x^3/3 + ..."
+        ],
+        "answer": "1 + x + x^2/2 + x^3/3 + ...",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Equation of the normal to the curve f(x) = sinx at point (π,0) is :",
+        "options": [
+          "x + y + π = 0 ",
+          "x - y - π = 0 ",
+          "x + y - π = 0 ",
+          "x - y + π = 0 "
+        ],
+        "answer": "x + y + π = 0 ",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+
+      {
+        "question": "If (2,0) is the vertex and the y-axis becomes the directrix of a parabola, then its focus is ___ .",
+        "options": ["(-4,0)", "(-2,0)", "(2,0)", "(4,0)"],
+        "answer": "(-2,0)",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The eccentricity of curve x²/244-y²/244 = 1 is:",
+        "options": ["1.732", "0.866", "1.414", "0.707"],
+        "answer": "0.707",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "(1-i/1+y)⁴⁴⁴=?",
+        "options": ["444 - 444i", "1-i", "-1 - i", "None of these"],
+        "answer": "444 - 444i",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Three numbers have a sum of 36 and a product of 1680 and form an arithmetic sequence. The largest number will be:",
+        "options": ["10", "12", "14", "16"],
+        "answer": "16",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If f(x) = Cos(x) / x, then the Limit of f(x) at x = 0 is equal to:",
+        "options": ["0", "∞", "1", "None of these"],
+        "answer": "∞",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Derivative of f(x) = ln(sin(eˣ)) w.r.t x is :",
+        "options": ["a", "b", "Tan(x)", "Cot(x)"],
+        "answer": "Cot(x)",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If for square matrix A, Aᵖ = 0, then AA is called ________ matrix.",
+        "options": ["Idempotent", "Nilpotent", "Periodic", "Symmetric"],
+        "answer": "Nilpotent",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Equation of one of the directrices of hyperbola x²/9-y²/4 = 1 is",
+        "options": ["x = 4/√13", "y = - 4/√13", "x = - 9/√13", "y = 9/√13"],
+        "answer": "x = 4/√13",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "sin(797π/2) = ",
+        "options": ["0", "1", "-1", "None of these"],
+        "answer": "0",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The solution set of Cot(x) =  √3  is ________",
+        "options": [
+          "{5π/6 + 2nπ, n ∈ Z}",
+          "{π/6 + 2nπ, n ∈ Z}",
+          "{π/3 + nπ, n ∈ Z}",
+          "None of these"
+        ],
+        "answer": "{π/3 + nπ, n ∈ Z}",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If 〖(n!)〗^2  + 118n! - 240 = 0 , then n =",
+        "options": ["2", "3", "4", "5"],
+        "answer": "2",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If the line y = mx + 1 is tangent to the parabola   y^2   = 4x , then m = ___",
+        "options": ["1", "2", "3", "4"],
+        "answer": "4",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The constant term in expansion 〖(x^2  - 1/x)〗^9 :",
+        "options": ["84", "-84", "252", "-252"],
+        "answer": "84",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Two curves (conics) intersect each other at maximum __ point(s).",
+        "options": ["1", "2", "3", "4"],
+        "answer": "4",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The slope of the line x - 3y = 443 is :",
+        "options": ["- 1/3", "1/3", "3", "-3"],
+        "answer": "1/3",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Domain of f(x) = (√(16-x^2))  / x is: :",
+        "options": [
+          "(-4,4) - {o}",
+          "[-4,4] - {0}",
+          "(-∞,+∞) - {0}",
+          "(-∞ ,-4) U (4,∞)"
+        ],
+        "answer": "[-4,4] - {0}",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Trace of matrix  is:",
+        "options": [
+          "Sum of first rows of elements",
+          "Sum of diagonal elements",
+          "Sum of first column of elements",
+          "None"
+        ],
+        "answer": "Sum of diagonal elements",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "let z be a complex number if θ=60 and n=3/2, then z=?",
+        "options": ["1+i", "i", "(1+i)/√2", "(√3+i)/2"],
+        "answer": "(√3+i)/2",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Real part of (2-3i)^6:",
+        "options": ["828", "2116", "2035", "none of these"],
+        "answer": "2116",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The system x+4y+mz= 2, 2x+y-2z=11, 3x+2y-2z=16 has infinitely many solutions if m=",
+        "options": ["5", "≠5", "-5", "-16"],
+        "answer": "-16",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+
+      {
+        "question": "There are 15 boys and 10 girls in a class. If three students are selected at random, what is the probability that 1 girl and 2 boys are selected?",
+        "options": ["21/46", "13/36", "3/25", "7/25"],
+        "answer": "21/46",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If orders of matrix B and C are 3x2 , then the order of matrix AB is:",
+        "options": ["2 by 3", "1 by 1", "3 by 2", "4 by 4"],
+        "answer": "2 by 3",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Number of Diagonals formed in Decagon are:",
+        "options": ["28", "35", "12", "16"],
+        "answer": "35",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The infinite geometric series ∑〖(1/2)〗^n, lower limit of n=1, upper limit of n=∞ is:",
+        "options": [
+          "Divergent series",
+          "Convergent series",
+          "Oscillating series",
+          "Both divergent and convergent"
+        ],
+        "answer": "Convergent series",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "let f(x) is a differentiable function such that f(x+y)=f(x)+f(y)  and x,y∈R and f(2)=5,then f ́(0):",
+        "options": ["5", "3.5", "2.5", "None of these"],
+        "answer": "2.5",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "if lim┬(n→∞)⁡〖(ax^2+bx+2)/(2x+5)=4,〗 what is the value of a+b?",
+        "options": ["4", "6", "8", "10"],
+        "answer": "8",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which of the following statements does represent the Venn Diagram?",
+        "options": ["(A∪B)∩C", "(A∩B)∪C", "C∩(A∪B)", "A∩(B∪C)"],
+        "answer": "(A∩B)∪C",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "In Parallelogram ABCD, diagonals,",
+        "options": ["bisect", "are perpendicular", "are equal", "None"],
+        "answer": "bisect",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If the line joining A(7,3) and B(k,6) is parallel to line joining C(-4,5) and D(-6,4), then the value of k is:",
+        "options": ["11", "-11", "13", "5"],
+        "answer": "5",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "dy/dx=  1/y is the slope of tangent to which of the following:",
+        "options": ["Ellipse", "Hyperbola", "Parabola", "Circle"],
+        "answer": "Hyperbola",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "sin10sin30sin50sin70=?",
+        "options": ["9/16", "1/16", "3/16", "3/8"],
+        "answer": "1/16",
+        "category": "unattempted",
+        "selectedOption": ""
+      }
+    ]
+  },
+
+  {
+    "subject": "Physics",
+    "questions": [
+      {
+        "question": "Acceleration is equal to which of the following:",
+        "options": ["Fm", "F/m", "m/F", "None of these"],
+        "answer": "F/m",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Galvanizing is coating with:",
+        "options": ["Cu", "Zn", "Ca", "None"],
+        "answer": "Zn",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which electrical appliance uses most voltage:",
+        "options": ["CEILING FAN", "REFRIGERATOR", "TV", "AC"],
+        "answer": "REFRIGERATOR",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "How many LED bulbs are used in an LED:",
+        "options": ["10", "11", "7", "1"],
+        "answer": "7",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Capacitor is used to store",
+        "options": ["Current", "Charge", "Energy", "Both B and C"],
+        "answer": "Both B and C",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "e/m ratio of the electron is",
+        "options": [
+          "More than that of proton",
+          "Less than that of proton",
+          "Equal to proton",
+          "0"
+        ],
+        "answer": "More than that of proton",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Resistor is used to resist current, and inductor is used for:",
+        "options": ["Voltage", "Charge", "Also Current", "None"],
+        "answer": "Voltage",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The speed of infrared waves is equal to:",
+        "options": ["Visible light", "Infrared wave", "Microwaves", "All"],
+        "answer": "All",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If we increase the narrow cuts of slits and pass light, then the bright bands will",
+        "options": ["Expand", "Contract", "Remain the Same", "Change speed"],
+        "answer": "Contract",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If a wire is passed through the paper, and current is passed through it, what direction would the magnetic field be:",
+        "options": [
+          "Perpendicular to the wire",
+          "Perpendicular to the page",
+          "Along the wire",
+          "None"
+        ],
+        "answer": "Perpendicular to the wire",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "An ideal inductor will have:",
+        "options": [
+          "zero resistance",
+          "High Inductance",
+          "Infinite Inductance",
+          "None"
+        ],
+        "answer": "Infinite Inductance",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Weight of a girl has decreased; she is in a lift which is moving:",
+        "options": [
+          "Upward",
+          "Upward with an acceleration a",
+          "Downward",
+          "Downward with an acceleration a"
+        ],
+        "answer": "Downward with an acceleration a",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "For a solenoid, if Area is doubled, length is double, current doubled, then B?",
+        "options": ["Double", "Half", "Same", "Four times"],
+        "answer": "Same",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "In α,β,γ, which one has more penetration:",
+        "options": ["α", "β", "γ", "All have the same"],
+        "answer": "γ",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Capacitance of a capacitor does not depend on",
+        "options": [
+          "Distance between plates",
+          "Area of plates",
+          "Medium",
+          "Depends on all"
+        ],
+        "answer": "Depends on all",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "|A.B|=0, |A|≠0, then",
+        "options": ["|B|=0", "ɸ=0", "ɸ=90", "Can be both a and c"],
+        "answer": "Can be both a and c",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Newton's First Law of motion is termed as the Law of:",
+        "options": ["Force", "Inertia", "Acceleration", "None"],
+        "answer": "Inertia",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Js/m is the unit of",
+        "options": ["Mass", "Angular Momentum", "Momentum", "None"],
+        "answer": "Momentum",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A car left at a speed of 54km/h at 8. Another car left at 9:15 with a speed of 72km/h. Given that the path is a straight line, when will the 2nd car catch up to the first one",
+        "options": ["3.75 hours", "5 hours", "6 hours", "1 hour"],
+        "answer": "3.75 hours",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Potential difference of an open circuit is called",
+        "options": ["Emf", "Zero potential", "Earth", "None"],
+        "answer": "Emf",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Extrinsic semiconductors have which one of the following",
+        "options": ["electrons", "holes", "can be both", "None"],
+        "answer": "can be both",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Doppler effect is true for which of the following",
+        "options": [
+          "Mechanical waves",
+          "Electromagnetic waves",
+          "light",
+          "All"
+        ],
+        "answer": "All",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A body is moving in a circle of diameter 1m with a constant velocity of 1ms^-1. Centripetal acceleration",
+        "options": ["2ms^-2", "4ms^-2", "1/2ms^-2", "1ms^-2"],
+        "answer": "2ms^-2",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "An AC generator can be converted to DC by using:",
+        "options": ["Split rings", "Slip rings", "Rectifier", "None"],
+        "answer": "Split rings",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A bar magnet is oscillating inside a solenoid. The solenoid is connected to a galvanometer. Which of the following will not happen.",
+        "options": [
+          "Moving left and right",
+          "Zero",
+          "Gives rms value",
+          "Both b and c"
+        ],
+        "answer": "Zero",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "F= q(vxB), what can you predict about F, v, and B",
+        "options": [
+          "All mutually perpendicular",
+          "F and v perpendicular",
+          "F and B are perpendicular",
+          "Both b and c"
+        ],
+        "answer": "Both b and c",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The temperature of the heat source is 4 times the temperature of the sink. What will be the efficiency of the engine?",
+        "options": ["50%", "25%", "75%", "100%"],
+        "answer": "75%",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Resistivity depends on:",
+        "options": ["Length", "Area", "Temperature", "All"],
+        "answer": "Temperature",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Significant figures in 20, given that none of the digits are ambiguous:",
+        "options": ["1", "2", "3", "Infinite"],
+        "answer": "Infinite",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which one of the following is non-renewable energy:",
+        "options": ["Fossil fuels", "Hydro", "Wind", "None"],
+        "answer": "Fossil fuels",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A source of blue light is seen as red light by an observer. Why?",
+        "options": [
+          "Observer is moving away",
+          "Observer is moving towards the source",
+          "Source is moving away",
+          "Source is moving towards the observer"
+        ],
+        "answer": "Source is moving away",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A pendulum of arc 2m and angle 1 radian. What is the length of the pendulum?",
+        "options": ["1m", "2m", "3m", "1/2m"],
+        "answer": "2m",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A cube has a surface area of 60 square inches. What is the volume of the cube?",
+        "options": ["10", "100", "1000", "(1000)^1/2"],
+        "answer": "(1000)^1/2",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which series of wavelengths lies in the visible range for emitted radiation?",
+        "options": ["Brackett", "Pfund", "Balmer", "Lyman"],
+        "answer": "Balmer",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Bragg’s Law is given by:",
+        "options": ["dsinϴ=mλ", "dsinϴ=2mλ", "2dsinϴ=mλ", "None"],
+        "answer": "2dsinϴ=mλ",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "if m is changed to c x m and k is changed to k/c then the new time period will be",
+        "options": ["T", "c^2 T", "cT", "T/c"],
+        "answer": "cT",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "the value of g at the equator is ___ than at g",
+        "options": ["less", "greater", "equal", "None"],
+        "answer": "less",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Boyle’s Law has which condition",
+        "options": ["Isobaric", "Isotherm", "Adiabatic", "None"],
+        "answer": "Isotherm",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Examples of thin films are",
+        "options": ["soap bubble", "water in oil", "Both", "None"],
+        "answer": "Both",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "y = at^2 + bt, units of a and b if y is displacement",
+        "options": ["ms^-2, ms^-1", "ms^-1, ms^-2", "ms^-2, ms^-2", "None"],
+        "answer": "ms^-2, ms^-1",
+        "category": "unattempted",
+        "selectedOption": ""
+      }
+    ]
+  },
+  {
+    "subject": "Intelligence",
+    "questions": [
+      {
+        "question": "What is the next number in the sequence: 1, 2, 4, 7, 11, 16, ...",
+        "options": ["22", "23", "24", "25"],
+        "answer": "23",
+        "selectedOption": "",
+        "category": "unattempted"
+      },
+      {
+        "question": "What is the next number in the sequence: 1, 1, 2, 3, 5, 8, 13, ...",
+        "options": ["20", "21", "22", "23"],
+        "answer": "21",
+        "selectedOption": "",
+        "category": "unattempted"
+      },
+      {
+        "question": "If PURPLE is coded as SVUNQF, then what is the code for ORANGE?",
+        "options": ["QSPCWH", "QSPBNG", "PRTGFD", "PSUDMF"],
+        "answer": "QSPCWH",
+        "selectedOption": "",
+        "category": "unattempted"
+      },
+      {
+        "question": "Find odd one out:",
+        "options": ["cat", "dog", "cow", "lion"],
+        "answer": "cow",
+        "selectedOption": "",
+        "category": "unattempted"
+      },
+      {
+        "question": "Find odd one out:",
+        "options": ["piano", "violin", "trumpet", "cello"],
+        "answer": "trumpet",
+        "selectedOption": "",
+        "category": "unattempted"
+      },
+      {
+        "question": "Pick the odd one out",
+        "options": ["QUXNGHI", "IHGUNXQ", "XGHIQUN", "QHXNIGV"],
+        "answer": "QHXNIGV",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Pick the odd one out",
+        "options": ["Tin", "Iron", "Gold", "Silver"],
+        "answer": "Tin",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Find the missing number in the pattern given below: 12 (60) 18, 23 (88) 21, 15 (?) 26",
+        "options": ["116", "82", "96", "108"],
+        "answer": "82",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Find the missing number in the pattern given below: If 7+5=4925, 5+4=2516, then 3+2=?",
+        "options": ["1.5", "9004", "94", "76"],
+        "answer": "94",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If CBKPDG stands for BALOCH, what stands for ORDERS?",
+        "options": ["PSCFSR", "NRBFRS", "PTDFTS", "OSEDFG"],
+        "answer": "PSCFSR",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The coding for READING is 1234567, find the coding for RING",
+        "options": ["1567", "1479", "1917", "1947"],
+        "answer": "1567",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "If PXWR is coded for RAIN then using this logic, how should PAIN be coded?",
+        "options": ["OXWR", "OXWS", "NXWR", "NXWS"],
+        "answer": "NXWR",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "One morning Umer and Waqas were talking to each other face to face at a field. If Waqas's shadow was exactly to the left of Umer, which direction was Umer facing?",
+        "options": ["North", "East", "West", "South"],
+        "answer": "North",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "In the morning, Ali and Farhan are standing in front of each other. Ali's shadow is to the right of Farhan. Then in what direction is Farhan standing?",
+        "options": ["East", "North", "West", "South"],
+        "answer": "South",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A man went 15 km to the west of his house, then turned left and walked 20 km. He then turned east and walked 25 km and finally turning left covered 20 km. How far was he from his house?",
+        "options": ["5 km", "10 km", "40 km", "80 km"],
+        "answer": "10 km",
+        "category": "unattempted",
+        "selectedOption": ""
+      }
+    ]
+  }
+]

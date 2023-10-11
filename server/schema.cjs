@@ -1,24 +1,19 @@
 const { Schema, default: mongoose } = require("mongoose");
 const bcrypt = require("bcrypt");
 
-const userSchema = new Schema({
-  username: String,
-  email: { type: String, unique: true },
-  password: String,
-});
-
-const chatsSchema = new Schema({
-  headingName: String,
+const usersSchema = new Schema({
   name: String,
-  chatType: {
-    type: String,
-    enum: ["public", "private"],
-  },
+  email: { type: String, required: true, unique: true },
   password: String,
-  messages: [{ sender: String, text: String, sentAt: Date }],
+  testType: {
+    type: String,
+    enum: ["eng", "nbs"],
+  },
+  expired: Boolean,
+  result: [{ subject: String, score: Number, total: Number }],
 });
 
-userSchema.pre("save", async function (next) {
+usersSchema.pre("save", async function (next) {
   if (!this.isModified("password")) return next();
   try {
     const hashedPassword = await bcrypt.hash(this.password, 10);
@@ -29,7 +24,31 @@ userSchema.pre("save", async function (next) {
   }
 });
 
-const User = mongoose.model("User", userSchema);
-const Chat = mongoose.model("Chat", chatsSchema);
+const questionsSchema = new Schema({
+  testType: {
+    type: String,
+    enum: ["eng", "nbs"],
+  },
+  questions: [
+    {
+      subject: String,
+      questions: [
+        {
+          question: String,
+          options: [String],
+          answer: String,
+          category: {
+            type: String,
+            default: "unattempted",
+          },
+          selectedOption: String,
+        },
+      ],
+    },
+  ],
+});
 
-module.exports = { User, Chat };
+const User = mongoose.model("users", usersSchema);
+const Question = mongoose.model("questions", questionsSchema);
+
+module.exports = { User, Question };

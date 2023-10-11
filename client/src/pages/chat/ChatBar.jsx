@@ -1,6 +1,14 @@
 import React, { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import { useAuthContext } from "../../auth/userContext";
+
+const chatNamesList1 = [
+  { headingName: "Public", name: "public" },
+  { headingName: "Football", name: "football" },
+  { headingName: "Friends", name: "friends" },
+  { headingName: "WWE", name: "wwe" },
+];
+
 function ChatBar({ location }) {
   const [chatNamesList, setChatNamesList] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -44,7 +52,7 @@ function ChatBar({ location }) {
             Chats
           </div>
           <div className="flex flex-col font-semibold tracking-wider overflow-auto gap-[2px]">
-            {chatNamesList.map(({ headingName, name }) => (
+            {chatNamesList1.map(({ headingName, name }) => (
               <NavLink
                 key={name}
                 to={`/${name}`}
