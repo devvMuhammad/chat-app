@@ -44,49 +44,49 @@
       },
       {
         "question": "Fraction form of the number 5.1733333.... is",
-        "options": ["5556/999", "5556/900*", "5655/999", "5655/900"],
+        "options": ["5556/999", "5556/900", "5655/999", "5655/900"],
         "answer": "5556/900",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Asymptote(s) of the function f(x) = 1/x is/are",
-        "options": ["x = 0", "y = 0", "xy = 0*", "y = x"],
+        "options": ["x = 0", "y = 0", "xy = 0", "y = x"],
         "answer": "xy = 0",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "f(x) = e^x meets the x-axis at ...",
-        "options": ["x = e", "x = 0", "x = 1", "none of these*"],
+        "options": ["x = e", "x = 0", "x = 1", "none of these"],
         "answer": "none of these",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "If three coins are tossed simultaneously, what's the probability of getting a head?",
-        "options": ["1/8", "7/8*", "1", "1/2"],
+        "options": ["1/8", "7/8", "1", "1/2"],
         "answer": "7/8",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Asymptote(s) of the function f(x) = 1/x is/are",
-        "options": ["x = 0", "y = 0", "xy = 0*", "y = x"],
+        "options": ["x = 0", "y = 0", "xy = 0", "y = x"],
         "answer": "xy = 0",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Which of the following is not possible in probability?",
-        "options": ["0.57", "1/e", "e*", "none of these"],
+        "options": ["0.57", "1/e", "e", "none of these"],
         "answer": "e",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "If two Matrices A & B with orders m x n & p x m respectively are multiplied with each other, then the order of their resultant matrix will be",
-        "options": ["m x m", "n x p", "m x p", "none of these*"],
+        "options": ["m x m", "n x p", "m x p", "none of these"],
         "answer": "none of these",
         "category": "unattempted",
         "selectedOption": ""
@@ -879,35 +879,35 @@
       },
       {
         "question": "Theory of relativity was presented by:",
-        "options": ["Einstein*", "Max Plank", "Newton", "Gauss"],
+        "options": ["Einstein", "Max Plank", "Newton", "Gauss"],
         "answer": "Einstein",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "An electron moving towards the positive x-axis enters a field having a potential of -2x i^, i^ is a unit vector in the direction of the x-axis, it will",
-        "options": ["speed up", "slow down*", "deflect up", "deflect down"],
+        "options": ["speed up", "slow down", "deflect up", "deflect down"],
         "answer": "slow down",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Central Fringe in diffraction through a grating is:",
-        "options": ["Bright*", "Dark", "Red", "None"],
+        "options": ["Bright", "Dark", "Red", "None"],
         "answer": "Bright",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Which one of the following can make a semiconductor of p-type?",
-        "options": ["Nitrogen", "Antimony", "Indium*", "Phosphorus"],
+        "options": ["Nitrogen", "Antimony", "Indium", "Phosphorus"],
         "answer": "Indium",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "A ladder inclined against a wall is 6m above the ground and makes an angle of 60 degrees with the ground. The displacement from the foot of the ladder to the wall is",
-        "options": ["6 tan 60m", "6/tan 60m*", "6/sin 60m", "6 sin 60m"],
+        "options": ["6 tan 60m", "6/tan 60m", "6/sin 60m", "6 sin 60m"],
         "answer": "6/tan 60m",
         "category": "unattempted",
         "selectedOption": ""
@@ -915,7 +915,7 @@
       {
         "question": "A charged particle does not feel any force when",
         "options": [
-          "It is in the direction of B*",
+          "It is in the direction of B",
           "It is perpendicular to B",
           "It is inclined at some angle ϴ",
           "It always feels some force"
@@ -926,35 +926,35 @@
       },
       {
         "question": "According to Newton, sound travels",
-        "options": ["isothermally*", "adiabatically", "isobarically", "None"],
+        "options": ["isothermally", "adiabatically", "isobarically", "None"],
         "answer": "isothermally",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Ratio of Laplace’s calculated speed of sound to Newton’s calculated speed of sound is:",
-        "options": ["γ", "1/γ", "*", "1/"],
+        "options": ["γ", "1/γ", "", "1/"],
         "answer": "1/",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "The initial speed of sound is 330 m/s at room temperature. The temperature is increased by 10 degrees. The speed of sound in a vacuum will be",
-        "options": ["330 m/s", "340 m/s", "350 m/s", "None*"],
+        "options": ["330 m/s", "340 m/s", "350 m/s", "None"],
         "answer": "None",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Where would the frequency of a pendulum be least",
-        "options": ["Murree", "Gilgit", "Karachi", "Mount Everest*"],
+        "options": ["Murree", "Gilgit", "Karachi", "Mount Everest"],
         "answer": "Mount Everest",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Which is invisible, Pfund series or Brackett series?",
-        "options": ["Only Pfund", "Only Brackett", "Both*", "None"],
+        "options": ["Only Pfund", "Only Brackett", "Both", "None"],
         "answer": "Both",
         "category": "unattempted",
         "selectedOption": ""
