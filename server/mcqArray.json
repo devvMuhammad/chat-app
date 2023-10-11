@@ -965,65 +965,147 @@
       },
 
       {
-        "question": "If R is the resistance of wire, L is length, and A is area. If the wire is stretched to twice its length then the resistance would become?",
-        "options": ["4R", "R", "2R", "R/4"],
+        "question": "if R is resistance of wire, L is length, and A is area. If the wire is stretched to twice its length, then the resistance would become?",
+        "options": ["R", "2R", "4R*", "R/4"],
         "answer": "4R",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "If we want to double the time period, keeping the value of g constant, then the length should be:",
-        "options": ["4L", "2L", "6L", "8L"],
+        "question": "If we want to double the time period keeping the value of g constant, then the length should be:",
+        "options": ["2L", "4L*", "6L", "8L"],
         "answer": "4L",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "Velocity must be ____ at max stretching of spring.",
-        "options": ["Zero", "Max", "Half its max value", "None"],
+        "question": "Velocity must be ____ at max stretching of the spring.",
+        "options": ["Zero*", "Max", "Half its max value", "None"],
         "answer": "Zero",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "If pressure is increased to double its value, then the velocity of sound becomes:",
-        "options": ["Same", "Double", "Half", "None"],
+        "question": "If pressure is increased to double its value, then velocity of sound becomes:",
+        "options": ["Double", "Half", "Same*", "None"],
         "answer": "Same",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "If we change the value of length to double and the value of area to half, then the value of resistivity will become:",
-        "options": ["Same", "Double", "Half", "None"],
+        "options": ["Double", "Half", "Same*", "None"],
         "answer": "Same",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Electron Volt is the unit of:",
-        "options": ["Energy", "Voltage", "Charge", "None"],
+        "options": ["Energy*", "Voltage", "Charge", "None"],
         "answer": "Energy",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "r = 2.25 ± 0.01, then the percentage error is:",
-        "options": ["0.4%", "1%", "0.1%", "0.9%"],
+        "question": "r = 2.25 ± 0.01, then percentage error is:",
+        "options": ["0.4%*", "1%", "0.1%", "0.9%"],
         "answer": "0.4%",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "If n = 5 then for which value of p would the wavelength of emitted radiation be max:",
-        "options": ["4", "1", "2", "3"],
+        "question": "if n = 5 then for which value of p would the wavelength of emitted radiation be max:",
+        "options": ["1", "2", "3", "4*"],
         "answer": "4",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Unit of angular momentum is:",
-        "options": ["Js", "kgm^2s^-2", "Both a and b", "None"],
+        "options": ["Js*", "kgm^2s^-2", "Both a and b", "None"],
         "answer": "Js",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Theory of relativity was presented by:",
+        "options": ["Einstein*", "Max Plank", "Newton", "Gauss"],
+        "answer": "Einstein",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "An electron moving towards the positive x-axis enters a field having a potential of -2x i^, i^ is a unit vector in the direction of the x-axis, it will",
+        "options": ["speed up", "slow down*", "deflect up", "deflect down"],
+        "answer": "slow down",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Central Fringe in diffraction through a grating is:",
+        "options": ["Bright*", "Dark", "Red", "None"],
+        "answer": "Bright",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which one of the following can make a semiconductor of p-type?",
+        "options": ["Nitrogen", "Antimony", "Indium*", "Phosphorus"],
+        "answer": "Indium",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A ladder inclined against a wall is 6m above the ground and makes an angle of 60 degrees with the ground. The displacement from the foot of the ladder to the wall is",
+        "options": ["6 tan60m", "6/tan60m*", "6/sin60m", "6 sin 60m"],
+        "answer": "6/tan60m",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "A charged particle does not feel any force when",
+        "options": [
+          "It is in the direction of B*",
+          "It is perpendicular to B",
+          "It is inclined at some angle ϴ",
+          "It always feels some force"
+        ],
+        "answer": "It is in the direction of B",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "According to Newton sound travels",
+        "options": ["isothermally*", "adiabatically", "isobarically", "None"],
+        "answer": "isothermally",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Ratio of Laplace’s calculated speed of sound to Newton’s calculated speed of sound is:",
+        "options": ["γ", "1/γ", "c*", "1/"],
+        "answer": "c",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The initial speed of sound is 330ms^-1 at room temperature. The temperature is increased by 10 degrees. The speed of sound in a vacuum will be",
+        "options": ["330ms^-1", "340ms^-1", "350ms^-1", "None*"],
+        "answer": "None",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Where would the frequency of the pendulum be least",
+        "options": ["Murree", "Gilgit", "Karachi", "Mount Everest*"],
+        "answer": "Mount Everest",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which is invisible Pfund series or Brackett series?",
+        "options": ["Only Pfund", "Only Brackett", "Both*", "None"],
+        "answer": "Both",
         "category": "unattempted",
         "selectedOption": ""
       }
