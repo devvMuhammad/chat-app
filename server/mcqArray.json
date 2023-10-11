@@ -222,13 +222,6 @@
         "selectedOption": ""
       },
       {
-        "question": "xxx",
-        "options": ["-1", "1", "2r", "None"],
-        "answer": "",
-        "category": "unattempted",
-        "selectedOption": ""
-      },
-      {
         "question": "(1-tan²x)(1+tan²x)",
         "options": ["sin²x-cos²x", "cos²x-sin²x-", "both", "None"],
         "answer": "sin²x-cos²x",
