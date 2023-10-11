@@ -639,36 +639,43 @@
     "questions": [
       {
         "question": "Acceleration is equal to which of the following:",
-        "options": ["Fm", "F/m", "m/F", "None of these"],
+        "options": ["F/m*", "Fm", "m/F", "None of these"],
         "answer": "F/m",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Galvanizing is coating with:",
-        "options": ["Cu", "Zn", "Ca", "None"],
+        "options": ["Zn*", "Cu", "Ca", "None"],
         "answer": "Zn",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
+        "question": "Which electrical appliance uses most voltage:",
+        "options": ["REFRIGERATOR*", "CEILING FAN", "TV", "AC"],
+        "answer": "REFRIGERATOR",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
         "question": "How many LED bulbs are used in an LED:",
-        "options": ["10", "11", "7", "1"],
+        "options": ["7*", "11", "10", "1"],
         "answer": "7",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Capacitor is used to store",
-        "options": ["Current", "Charge", "Energy", "Both B and C"],
+        "options": ["Both B and C*", "Charge", "Energy", "Current"],
         "answer": "Both B and C",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "e/m ratio of the electron is",
+        "question": "e/m ratio of electron is",
         "options": [
-          "More than that of proton",
+          "More than that of proton*",
           "Less than that of proton",
           "Equal to proton",
           "0"
@@ -678,30 +685,30 @@
         "selectedOption": ""
       },
       {
-        "question": "Resistor is used to resist current, and inductor is used for:",
-        "options": ["Voltage", "Charge", "Also Current", "None"],
+        "question": "Resistor is used to resist current and inductor is used for:",
+        "options": ["Voltage*", "Charge", "Also Current", "None"],
         "answer": "Voltage",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "The speed of infrared waves is equal to:",
-        "options": ["Visible light", "Infrared wave", "Microwaves", "All"],
+        "options": ["All*", "Visible light", "Infrared wave", "Microwaves"],
         "answer": "All",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "If we increase the narrow cuts of slits and pass light, then the bright bands will",
-        "options": ["Expand", "Contract", "Remain the Same", "Change speed"],
+        "question": "If we increase the narrow cuts of slits and pass light then the bright bands will",
+        "options": ["Contract*", "Expand", "Remain Same", "Change speed"],
         "answer": "Contract",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "If a wire is passed through the paper, and current is passed through it, what direction would the magnetic field be:",
+        "question": "If a wire is passed through the paper and current is passed through it, what direction would the magnetic field be:",
         "options": [
-          "Perpendicular to the wire",
+          "Perpendicular to the wire*",
           "Perpendicular to the page",
           "Along the wire",
           "None"
@@ -713,9 +720,9 @@
       {
         "question": "An ideal inductor will have:",
         "options": [
-          "zero resistance",
+          "Infinite Inductance*",
           "High Inductance",
-          "Infinite Inductance",
+          "zero resistance",
           "None"
         ],
         "answer": "Infinite Inductance",
@@ -723,27 +730,27 @@
         "selectedOption": ""
       },
       {
-        "question": "Weight of a girl has decreased; she is in a lift which is moving:",
+        "question": "Weight of a girl has decreased, she is in a lift which is moving:",
         "options": [
-          "Upward",
+          "Downward with an acceleration a*",
           "Upward with an acceleration a",
-          "Downward",
-          "Downward with an acceleration a"
+          "Upward",
+          "Downward"
         ],
         "answer": "Downward with an acceleration a",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "For a solenoid, if Area is doubled, length is double, current doubled, then B?",
-        "options": ["Double", "Half", "Same", "Four times"],
+        "question": "For a solenoid, if Area is doubled, length is double, current doubled then B?",
+        "options": ["Same*", "Half", "Double", "Four times"],
         "answer": "Same",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "In α,β,γ, which one has more penetration:",
-        "options": ["α", "β", "γ", "All have the same"],
+        "question": "In α,β,γ which one has more penetration:",
+        "options": ["γ*", "α", "β", "All have the same"],
         "answer": "γ",
         "category": "unattempted",
         "selectedOption": ""
@@ -751,53 +758,54 @@
       {
         "question": "Capacitance of a capacitor does not depend on",
         "options": [
+          "Depends on all*",
           "Distance between plates",
           "Area of plates",
-          "Medium",
-          "Depends on all"
+          "Medium"
         ],
         "answer": "Depends on all",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "|A.B|=0, |A|≠0, then",
-        "options": ["|B|=0", "ɸ=0", "ɸ=90", "Can be both a and c"],
+        "question": "|A.B|=0,|A|≠0 then",
+        "options": ["Can be both a and c*", "ɸ=0", "ɸ=90", "|B|=0"],
         "answer": "Can be both a and c",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "Newton's First Law of motion is termed as the Law of:",
-        "options": ["Force", "Inertia", "Acceleration", "None"],
+        "question": "Newton's First Law of motion is termed as Law of:",
+        "options": ["Inertia*", "Force", "acceleration", "None"],
         "answer": "Inertia",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Js/m is the unit of",
-        "options": ["Mass", "Angular Momentum", "Momentum", "None"],
+        "options": ["Momentum*", "Mass", "Angular Momentum", "None"],
         "answer": "Momentum",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "A car left at a speed of 54km/h at 8. Another car left at 9:15 with a speed of 72km/h. Given that the path is a straight line, when will the 2nd car catch up to the first one",
-        "options": ["3.75 hours", "5 hours", "6 hours", "1 hour"],
+        "options": ["3.75 hours*", "5 hours", "6 hours", "1 hour"],
         "answer": "3.75 hours",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Potential difference of an open circuit is called",
-        "options": ["Emf", "Zero potential", "Earth", "None"],
+        "options": ["Emf*", "zero potential", "earth", "None"],
         "answer": "Emf",
         "category": "unattempted",
         "selectedOption": ""
       },
+
       {
         "question": "Extrinsic semiconductors have which one of the following",
-        "options": ["electrons", "holes", "can be both", "None"],
+        "options": ["can be both*", "electrons", "holes", "None"],
         "answer": "can be both",
         "category": "unattempted",
         "selectedOption": ""
@@ -805,10 +813,10 @@
       {
         "question": "Doppler effect is true for which of the following",
         "options": [
+          "All*",
           "Mechanical waves",
-          "Electromagnetic waves",
-          "light",
-          "All"
+          "ElectroMagnetic waves",
+          "light"
         ],
         "answer": "All",
         "category": "unattempted",
@@ -816,14 +824,14 @@
       },
       {
         "question": "A body is moving in a circle of diameter 1m with a constant velocity of 1ms^-1. Centripetal acceleration",
-        "options": ["2ms^-2", "4ms^-2", "1/2ms^-2", "1ms^-2"],
+        "options": ["2ms^-2*", "4ms^-2", "1/2ms^-2", "1ms^-2"],
         "answer": "2ms^-2",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "An AC generator can be converted to DC by using:",
-        "options": ["Split rings", "Slip rings", "Rectifier", "None"],
+        "question": "AC generator can be converted to DC by using:",
+        "options": ["Split rings*", "Slip rings", "Rectifier", "None"],
         "answer": "Split rings",
         "category": "unattempted",
         "selectedOption": ""
@@ -831,51 +839,51 @@
       {
         "question": "A bar magnet is oscillating inside a solenoid. The solenoid is connected to a galvanometer. Which of the following will not happen.",
         "options": [
+          "Both b and c*",
           "Moving left and right",
           "Zero",
-          "Gives rms value",
-          "Both b and c"
-        ],
-        "answer": "Zero",
-        "category": "unattempted",
-        "selectedOption": ""
-      },
-      {
-        "question": "F= q(vxB), what can you predict about F, v, and B",
-        "options": [
-          "All mutually perpendicular",
-          "F and v perpendicular",
-          "F and B are perpendicular",
-          "Both b and c"
+          "Gives rms value"
         ],
         "answer": "Both b and c",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "The temperature of the heat source is 4 times the temperature of the sink. What will be the efficiency of the engine?",
-        "options": ["50%", "25%", "75%", "100%"],
+        "question": "F= q(vxB), what can you predict about F, v, and B",
+        "options": [
+          "Both b and c*",
+          "All mutually perpendicular",
+          "F and v perpendicular",
+          "F and B are perpendicular"
+        ],
+        "answer": "Both b and c",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Temperature of heat source is 4 times the temperature of the sink. What will be the efficiency of the engine?",
+        "options": ["75%*", "50%", "25%", "100%"],
         "answer": "75%",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Resistivity depends on:",
-        "options": ["Length", "Area", "Temperature", "All"],
+        "options": ["Temperature*", "Length", "Area", "All"],
         "answer": "Temperature",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Significant figures in 20, given that none of the digits are ambiguous:",
-        "options": ["1", "2", "3", "Infinite"],
+        "options": ["Infinite*", "1", "2", "3"],
         "answer": "Infinite",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Which one of the following is non-renewable energy:",
-        "options": ["Fossil fuels", "Hydro", "Wind", "None"],
+        "options": ["Fossil fuels*", "Hydro", "Wind", "None"],
         "answer": "Fossil fuels",
         "category": "unattempted",
         "selectedOption": ""
@@ -883,9 +891,9 @@
       {
         "question": "A source of blue light is seen as red light by an observer. Why?",
         "options": [
+          "Source is moving away*",
           "Observer is moving away",
           "Observer is moving towards the source",
-          "Source is moving away",
           "Source is moving towards the observer"
         ],
         "answer": "Source is moving away",
@@ -894,146 +902,128 @@
       },
       {
         "question": "A pendulum of arc 2m and angle 1 radian. What is the length of the pendulum?",
-        "options": ["1m", "2m", "3m", "1/2m"],
+        "options": ["2m*", "1m", "3m", "1/2m"],
         "answer": "2m",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "A cube has a surface area of 60 square inches. What is the volume of the cube?",
-        "options": ["10", "100", "1000", "(1000)^1/2"],
+        "options": ["(1000)^1/2*", "10", "100", "1000"],
         "answer": "(1000)^1/2",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "Which series of wavelengths lies in the visible range for emitted radiation?",
-        "options": ["Brackett", "Pfund", "Balmer", "Lyman"],
+        "question": "Which series of wavelength lies in the visible range for emitted radiation?",
+        "options": ["Balmer*", "Brackett", "Pfund", "Lymann"],
         "answer": "Balmer",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Bragg’s Law is given by:",
-        "options": ["dsinϴ=mλ", "dsinϴ=2mλ", "2dsinϴ=mλ", "None"],
+        "options": ["2dsinϴ=mλ*", "dsinϴ=2mλ", "dsinϴ=mλ", "None"],
         "answer": "2dsinϴ=mλ",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "if m is changed to c x m and k is changed to k/c then the new time period will be",
-        "options": ["T", "c^2 T", "cT", "T/c"],
+        "question": "if m is changed to c x m  and k is changed to k/c then the new time period will be",
+        "options": ["cT*", "T/c", "c^2 T", "T"],
         "answer": "cT",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "the value of g at the equator is ___ than at g",
-        "options": ["less", "greater", "equal", "None"],
+        "question": "value of g at the equator is ___ than at g",
+        "options": ["less*", "greater", "equal", "None"],
         "answer": "less",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Boyle’s Law has which condition",
-        "options": ["Isobaric", "Isotherm", "Adiabatic", "None"],
+        "options": ["Isotherm*", "Isobaric", "Adiabatic", "None"],
         "answer": "Isotherm",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "Examples of thin films are",
-        "options": ["soap bubble", "water in oil", "Both", "None"],
+        "options": ["Both*", "soap bubble", "water in oil", "None"],
         "answer": "Both",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
         "question": "y = at^2 + bt, units of a and b if y is displacement",
-        "options": ["ms^-2, ms^-1", "ms^-1, ms^-2", "ms^-2, ms^-2", "None"],
+        "options": ["ms^-2, ms^-1*", "ms^-1, ms^-2", "ms^-2, ms^-2", "None"],
         "answer": "ms^-2, ms^-1",
         "category": "unattempted",
         "selectedOption": ""
       },
+
       {
-        "question": "Theory of relativity was presented by:",
-        "options": ["Einstein", "Max Plank", "Newton", "Gauss"],
-        "answer": "Einstein",
+        "question": "If R is the resistance of wire, L is length, and A is area. If the wire is stretched to twice its length then the resistance would become?",
+        "options": ["4R*", "R", "2R", "R/4"],
+        "answer": "4R",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "An electron moving towards the positive x-axis enters a field having a potential of -2x i^, i^ is a unit vector in the direction of the x-axis, it will",
-        "options": ["speed up", "slow down", "deflect up", "deflect down"],
-        "answer": "slow down",
+        "question": "If we want to double the time period, keeping the value of g constant, then the length should be:",
+        "options": ["4L*", "2L", "6L", "8L"],
+        "answer": "4L",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "Central Fringe in diffraction through a grating is:",
-        "options": ["Bright", "Dark", "Red", "None"],
-        "answer": "Bright",
+        "question": "Velocity must be ____ at max stretching of spring.",
+        "options": ["Zero*", "Max", "Half its max value", "None"],
+        "answer": "Zero",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "Which one of the following can make a semiconductor of p-type?",
-        "options": ["Nitrogen", "Antimony", "Indium", "Phosphorus"],
-        "answer": "Indium",
+        "question": "If pressure is increased to double its value, then the velocity of sound becomes:",
+        "options": ["Same*", "Double", "Half", "None"],
+        "answer": "Same",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "A ladder inclined against a wall is 6m above the ground and makes an angle of 60 degrees with the ground. The displacement from the foot of the ladder to the wall is",
-        "options": ["6 tan 60m", "6/tan 60m", "6/sin 60m", "6 sin 60m"],
-        "answer": "6/tan 60m",
+        "question": "If we change the value of length to double and the value of area to half, then the value of resistivity will become:",
+        "options": ["Same*", "Double", "Half", "None"],
+        "answer": "Same",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "A charged particle does not feel any force when",
-        "options": [
-          "It is in the direction of B",
-          "It is perpendicular to B",
-          "It is inclined at some angle ϴ",
-          "It always feels some force"
-        ],
-        "answer": "It is in the direction of B",
+        "question": "Electron Volt is the unit of:",
+        "options": ["Energy*", "Voltage", "Charge", "None"],
+        "answer": "Energy",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "According to Newton, sound travels",
-        "options": ["isothermally", "adiabatically", "isobarically", "None"],
-        "answer": "isothermally",
+        "question": "r = 2.25 ± 0.01, then the percentage error is:",
+        "options": ["0.4%*", "1%", "0.1%", "0.9%"],
+        "answer": "0.4%",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "Ratio of Laplace’s calculated speed of sound to Newton’s calculated speed of sound is:",
-        "options": ["γ", "1/γ", "", "1/"],
-        "answer": "1/",
+        "question": "If n = 5 then for which value of p would the wavelength of emitted radiation be max:",
+        "options": ["4*", "1", "2", "3"],
+        "answer": "4",
         "category": "unattempted",
         "selectedOption": ""
       },
       {
-        "question": "The initial speed of sound is 330 m/s at room temperature. The temperature is increased by 10 degrees. The speed of sound in a vacuum will be",
-        "options": ["330 m/s", "340 m/s", "350 m/s", "None"],
-        "answer": "None",
-        "category": "unattempted",
-        "selectedOption": ""
-      },
-      {
-        "question": "Where would the frequency of a pendulum be least",
-        "options": ["Murree", "Gilgit", "Karachi", "Mount Everest"],
-        "answer": "Mount Everest",
-        "category": "unattempted",
-        "selectedOption": ""
-      },
-      {
-        "question": "Which is invisible, Pfund series or Brackett series?",
-        "options": ["Only Pfund", "Only Brackett", "Both", "None"],
-        "answer": "Both",
+        "question": "Unit of angular momentum is:",
+        "options": ["Js*", "kgm^2s^-2", "Both a and b", "None"],
+        "answer": "Js",
         "category": "unattempted",
         "selectedOption": ""
       }
