@@ -3,7 +3,7 @@
     "subject": "Mathematics",
     "questions": [
       {
-        "question": "∫Sinx² dx =",
+        "question": "∫Sin²x dx =",
         "options": [
           "- Cos²x + c",
           "-2Cos²x + c",
