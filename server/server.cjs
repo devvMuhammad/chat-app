@@ -54,19 +54,23 @@ app.post("/login", async (req, res) => {
 });
 
 app.get("/mcqs", authorizeToken, async (req, res) => {
-  fs.readFile("./mcqArray.json", { encoding: "utf-8" }, (err, data) => {
-    if (err) {
-      console.log(err);
-      return res.status(400).json({
-        status: "failure",
-        message: "Error occured while reading data",
+  fs.readFile(
+    __dirname + "./mcqArray.json",
+    { encoding: "utf-8" },
+    (err, data) => {
+      if (err) {
+        console.log(err);
+        return res.status(400).json({
+          status: "failure",
+          message: "Error occured while reading data",
+        });
+      }
+      res.status(200).json({
+        status: "success",
+        data: JSON.parse(data),
       });
     }
-    res.status(200).json({
-      status: "success",
-      data: JSON.parse(data),
-    });
-  });
+  );
 });
 
 app.post("/submitResult", async (req, res) => {
