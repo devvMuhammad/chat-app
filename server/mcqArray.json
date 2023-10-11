@@ -15,6 +15,55 @@
         "selectedOption": ""
       },
       {
+        "question": "Polar coordinates of -2i?",
+        "options": ["(2,3π/2)", "(2,5π/2)", "(2,π/2)", "(2,2π)"],
+        "answer": "(2,3π/2)",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "x+a becomes the factor of xⁿ+aⁿ iff:",
+        "options": ["n ∈ N", "n ∈ E", "n ∈ O", "n ∈ Z"],
+        "answer": "n ∈  O",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "FInd the equivalent ratio of r1: R: r where r1 is radius of exterior circle, R is circumradius and r is inradius.",
+        "options": ["1:2:3", "3:2:1", "2:3:1", "All of these"],
+        "answer": "3:2:1",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "For what value of k, the one root of equation of x² - kx + 8 = 0 becomes the twice of other:",
+        "options": ["k = 6", "k = -6 ", "Both a and b", "Not possible"],
+        "answer": "Both a and b",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The number of relations of two sets A and B having order 2 and 4 respectively?",
+        "options": ["256", "250", "128", "254"],
+        "answer": "256",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which is of the following inequality is greater?",
+        "options": ["x > 1", "x > 2", "x > 3", "None of these"],
+        "answer": "None of these",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "Which is of the following inequality is greater?",
+        "options": ["x > 1", "x > 2", "x > 3", "None of these"],
+        "answer": "None of these",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
         "question": "Which of the following is an irrational number?",
         "options": ["22/7", "3.14", "1/3", "None of these"],
         "answer": "None of these",
@@ -71,9 +120,14 @@
         "selectedOption": ""
       },
       {
-        "question": "Asymptote(s) of the function f(x) = 1/x is/are",
-        "options": ["x = 0", "y = 0", "xy = 0", "y = x"],
-        "answer": "xy = 0",
+        "question": "In how many ways can 5 boys and 4 girls be seated on a circular table such that two girls always sit together but not adjacent to third girl?",
+        "options": [
+          "5! x 4 x 6C2",
+          "5! x 4!",
+          "5! x 4! x 5C3",
+          "None of these"
+        ],
+        "answer": "5! x 4 x 6C2",
         "category": "unattempted",
         "selectedOption": ""
       },
@@ -81,6 +135,13 @@
         "question": "Which of the following is not possible in probability?",
         "options": ["0.57", "1/e", "e", "none of these"],
         "answer": "e",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "The ratio 1/2 : 1/3 : 1/4 is equivalent to:",
+        "options": ["2:3:4", "6:3:4", "4:3:2", "6:4:3"],
+        "answer": "6:4:3",
         "category": "unattempted",
         "selectedOption": ""
       },
@@ -254,6 +315,37 @@
         "question": "Two dice are rolled, the probability that the sum of dots is an odd number is?",
         "options": ["1/2", "1/3", "greater than 1 or less than 0", "None"],
         "answer": "1/3",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "∀ a,b,c E R such that \n a > b and b > c => a > c \n a < b and b < c => a < c indicates",
+        "options": [
+          "Trichotomy Property",
+          "Transitive Property",
+          "Symmetric Property",
+          "Reflexive Property"
+        ],
+        "answer": "Trichotomy Property",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "In partial fraction, we cannot put the points: ",
+        "options": [
+          "where the denominator is zero",
+          "we can put all points",
+          "Identity takes all values of x",
+          "None of these"
+        ],
+        "answer": "where the denominator is zero",
+        "category": "unattempted",
+        "selectedOption": ""
+      },
+      {
+        "question": "i^2 is:",
+        "options": ["Real", "Complex Number", "Both", "None of these"],
+        "answer": "Both",
         "category": "unattempted",
         "selectedOption": ""
       },
@@ -563,13 +655,6 @@
         "question": "Galvanizing is coating with:",
         "options": ["Cu", "Zn", "Ca", "None"],
         "answer": "Zn",
-        "category": "unattempted",
-        "selectedOption": ""
-      },
-      {
-        "question": "Which electrical appliance uses most voltage:",
-        "options": ["CEILING FAN", "REFRIGERATOR", "TV", "AC"],
-        "answer": "REFRIGERATOR",
         "category": "unattempted",
         "selectedOption": ""
       },
