@@ -11,15 +11,6 @@ require("dotenv").config();
 const JWT_SECRET = "waya-kana-jani";
 const randomWords = [{ name: "Muhammad Amjad", email: "" }];
 
-console.log(
-  JSON.parse(fs.readFileSync("./users.json", "utf-8")).map(
-    ({ name, email, original }) => {
-      
-      return { name, email, original };
-    }
-  )
-);
-
 mongoose
   .connect(
     "mongodb+srv://muhammadaljoufi:1RGIYsbu41JuSg7O@ahmed.9suue9g.mongodb.net/app"
