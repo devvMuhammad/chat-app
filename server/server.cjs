@@ -9,6 +9,16 @@ const { User } = require("./schema.cjs");
 require("dotenv").config();
 
 const JWT_SECRET = "waya-kana-jani";
+const randomWords = [{ name: "Muhammad Amjad", email: "" }];
+
+console.log(
+  JSON.parse(fs.readFileSync("./users.json", "utf-8")).map(
+    ({ name, email, original }) => {
+      
+      return { name, email, original };
+    }
+  )
+);
 
 mongoose
   .connect(
